@@ -29,7 +29,7 @@ The data includes both cross-sectional and trends data, available in CSV or Stat
 By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
 
 ## Colophon
-Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2019): 2019 Sustainable Development Report. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
+Please cite report as: Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2019): 2019 Sustainable Development Report. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
 
 The report was prepared by teams of independent experts at the SDSN Secretariat and the Bertelsmann Stiftung. The report was coordinated by Guillaume Lafortune (SDSN) under the direction of Christian Kroll (Bertelsmann Stiftung) and Guido Schmidt-Traub (SDSN) and the overall supervision of Jeffrey Sachs – Director of SDSN. Lead writers are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, Guillaume Lafortune and Grayson Fuller (SDSN). We are grateful to Jorge Moreno Membrillera (SDSN) for providing statistical support.
 
