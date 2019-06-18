@@ -16,7 +16,7 @@ This report is the fourth edition of the annual overview of countries’ perform
 
 For more information on this report, see https://www.sustainabledevelopment.report/reports/sustainable-development-report-2019/.
 
-For data from our other projects, see https://github.com/sdsna
+For data from our other projects, see https://github.com/sdsna.
 
 ## Data
 
