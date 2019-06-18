@@ -15,6 +15,7 @@ The report is co-produced every year since 2016 by the [Bertelsmann Stiftung](ht
 This report is the fourth edition of the annual overview of countries’ performance on the 17 Sustainable Development Goals prepared jointly by the Bertelsmann Stiftung and the Sustainable Development Solutions Network (SDSN). The Report covers all 193 UN member states and presents data on changes over time in SDG indicators, as well as calculations for trajectories until 2030.
 
 For more information on this report, see https://www.sdgindex.org/reports/2018/.
+
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
