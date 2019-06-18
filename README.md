@@ -1,10 +1,8 @@
 <img src="https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# SDG INDEX AND DASHBOARDS REPORT 2018  
-## Global Responsibilities: Implementing the Goals
-Country-level data from 2018 Index and Dashboards
-
-[Project image]
+# SUSTAINABLE DEVELOPMENT REPORT 2019
+## SDG Transformations
+Country-level data from 2019 Index and Dashboards
 
 ## Project History
 Agenda 2030 and the Sustainable Development Goals, adopted by all member states of the United-Nations in 2015, describe a universal agenda that applies to and must be implemented by all countries. Sound metrics and data are critical for turning the SDGs into practical tools for problem solving.
@@ -13,37 +11,28 @@ The SDG Index and Dashboards Report is the first worldwide study to assess where
 
 The report is co-produced every year since 2016 by the [Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de/de/startseite/) and the [Sustainable Development Solutions Network (SDSN)](http://unsdsn.org/). It is a complement to the official SDG indicators and voluntary country-led review processes. The report is not an official monitoring tool. It uses publicly available data published by official data providers (World Bank, WHO, ILO, others) and other organizations including research centers and non-governmental organizations.
 
-
 ## Report Description
-The SDG Index and Dashboards 2018 report presents a revised and updated assessment of countries’ distance to achieving the Sustainable Development Goals (SDGs). It includes detailed SDG Dashboards to help identify implementation priorities for the SDGs. The report also provides a ranking of countries by the aggregate SDG Index of overall performance.
-
-This year’s report includes several improvements and additions in comparison to previous versions. It incorporates trend data for the first time. New indicators have been added to cover more accurately the SDGs and associated targets with a special focus on “leave no one behind” for OECD member states. We present data for all 193 UN member states and estimate absolute SDG achievement gaps to complement per capita estimates. Building on the 2017 report, we expand the analysis of international SDG spillovers and present an overall SDG spillover index.
+This report is the fourth edition of the annual overview of countries’ performance on the 17 Sustainable Development Goals prepared jointly by the Bertelsmann Stiftung and the Sustainable Development Solutions Network (SDSN). The Report covers all 193 UN member states and presents data on changes over time in SDG indicators, as well as calculations for trajectories until 2030.
 
 For more information on this report, see https://www.sdgindex.org/reports/2018/.
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
 
-The data is distributed in 2 files, each available in CSV or Stata format.
+The data includes both cross-sectional and trends data, available in CSV or Stata format.
 
-1. Data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
-2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
-
-
-## Methodology
-
-[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
+1. Data from most recent year, Global Index Results 2019, available in [Excel](https://github.com/sdsna/2019GlobalIndex
+/blob/master/2019GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2019GlobalIndex
+/blob/master/2019GlobalIndexResults.dta) format.
 
 ## License
 
 By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
 
 ## Colophon
-Lead writers are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, Guillaume Lafortune and Grayson Fuller. The report should be cited as: Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2018): SDG Index and Dashboards Report 2018. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
+Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2019): 2019 Sustainable Development Report. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
 
-Guillaume Lafortune coordinated the production of the report under the direction of Guido Schmidt-Traub and Christian Kroll and under the overall supervision of Jeffrey Sachs. Grayson Fuller was responsible for the data collection and management.
-
-Publication design and layout by [Pica Publishing](http://www.pica-publishing.com/).
+The report was prepared by teams of independent experts at the SDSN Secretariat and the Bertelsmann Stiftung. The report was coordinated by Guillaume Lafortune (SDSN) under the direction of Christian Kroll (Bertelsmann Stiftung) and Guido Schmidt-Traub (SDSN) and the overall supervision of Jeffrey Sachs – Director of SDSN. Lead writers are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, Guillaume Lafortune and Grayson Fuller (SDSN). We are grateful to Jorge Moreno Membrillera (SDSN) for providing statistical support.
 
 ## Endmatter
 
