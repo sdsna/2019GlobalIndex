@@ -20,9 +20,10 @@ For data from our other projects, see https://github.com/sdsna
 
 ## Data
 
-The data includes both cross-sectional and trends data, available in CSV or Stata format.
+The data includes 2 file types. The Excel data contains both cross-sectional and trends data. The Stata file has the cross-sectional results.
 
-1. Data from most recent year, Global Index Results 2019, available in [Excel](https://github.com/sdsna/2019GlobalIndex/blob/master/2019GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2019GlobalIndex/blob/master/2019GlobalIndexResults.dta) format.
+1. Cross-sectional and trends data from most recent year, Global Index Results 2019, available in [Excel](https://github.com/sdsna/2019GlobalIndex/blob/master/2019GlobalIndexResults.xlsx) format.
+2. Cross-sectional data from most recent year, Global Index Results 2019, available in [Stata](https://github.com/sdsna/2019GlobalIndex/blob/master/2019GlobalIndexResults.dta) format.
 
 ## License
 
