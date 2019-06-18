@@ -22,9 +22,7 @@ For data from our other projects, see https://github.com/sdsna
 
 The data includes both cross-sectional and trends data, available in CSV or Stata format.
 
-1. Data from most recent year, Global Index Results 2019, available in [Excel](https://github.com/sdsna/2019GlobalIndex
-/blob/master/2019GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2019GlobalIndex
-/blob/master/2019GlobalIndexResults.dta) format.
+1. Data from most recent year, Global Index Results 2019, available in [Excel](https://github.com/sdsna/2019GlobalIndex/blob/master/2019GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2019GlobalIndex/blob/master/2019GlobalIndexResults.dta) format.
 
 ## License
 
