@@ -27,7 +27,7 @@ The data includes 2 file types. The Excel data contains both cross-sectional and
 
 ## License
 
-By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Colophon
 Please cite report as: Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2019): 2019 Sustainable Development Report. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
@@ -47,4 +47,3 @@ In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat and the Bertelsmann Stiftung.
 
 This report has been prepared with the extensive advice and consultation of the SDSN Leadership Council members. Members of the Leadership Council listed serve in their personal capacities, so the opinions expressed in this report may not reflect the opinions of their host institutions. Members are not necessarily in agreement with every detail of this report.
-
